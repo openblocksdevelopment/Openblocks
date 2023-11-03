@@ -1,16 +1,21 @@
 README
-~-~-~-
+------------
 
-Openblocks is a open source project intended to be an alternative to Roblox.
+Openblocks is a open source project intended to be an alternative to Roblox,
+and cane about from the recently awful management on Roblox currently.
 
-If you wish to add to our client, you are welcome to do so.
+If you wish to modify, add onto, or enhance our client, you are very much
+welcomed and highly encouraged to do so.
 
-I hope you enjoy!
+I hope you enjoy our attempt at making an alternative!
 
-We will welcome any help we can get, so if you want a feature to show up in the project, 
-please contact me on Discord with the username jahoobas. (I know the new update sucks.)
+-----
 
-If you are going to contact me, please mention Openblocks in the message so I will know what the 
-message is about.
+Openblocks is welcoming of any help on ideas and improving our code as we can get,
+so if you are looking to have a feature show up in the project, please contact either
+jahoobas or trulyflawed on Discord (Those are the usernames).
 
-Thank you!
+If you are going to contact any of us, please mention Openblocks in the message so 
+that we are aware of what you are talking about.
+
+Thank you for reading!
